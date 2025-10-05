@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "58134fb7b422",
+        "mtime": 1756904913000,
+        "size": 138293552,
+        "localPath": "C:\\Users\\crist\\Documents\\IMR Projects\\Lab1\\Packages\\com.ptc.vuforia.engine-11.4.4.tgz"
+      }
+    }
+  }
+}
